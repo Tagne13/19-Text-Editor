@@ -28,9 +28,9 @@
 
   ## [Usage](#table-of-contents)
 
-  THis application is deployed using [Heroku](https://tagne13-text-editor-f38e79f40d51.herokuapp.com/)
+  This application is deployed using [Heroku](https://tagne13-text-editor-f38e79f40d51.herokuapp.com/)
 
-  ![Screenshot](images/Screenshot.png)
+  ![Screenshot](images/Screenshot1.png)
 
   The following image shows the application's manifest.json file:
 
