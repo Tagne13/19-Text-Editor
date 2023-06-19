@@ -14,7 +14,7 @@
   
   ## [Description](#table-of-contents)
 
-  J.A.T.E is a Progressive Web Application (PWA) that runs in the browser, offline and can be installed locally to your machine. This application features a number of data persistence techniques, insuring the application runs regardless of browser supported function. J.A.T.E uses an IndexedDB database and the idb package. This application is deployed to Heroku,
+  J.A.T.E is a Progressive Web Application (PWA) that runs in the browser, offline, and can be installed locally to your machine. This application features a number of data persistence techniques, ensuring the application runs regardless of browser supported function. J.A.T.E uses an IndexedDB database and the idb package. This application is deployed to Heroku.
 
   ## [Installation](#table-of-contents)
 
